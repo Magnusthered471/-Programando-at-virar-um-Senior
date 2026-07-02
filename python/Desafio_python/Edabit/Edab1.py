@@ -10,6 +10,6 @@ def cubes(a):
 def string_int(txt):
 	return int(txt)
 
-#Emcomtando  o perimentro de um retangulo, que é a soma de todos os lados.
+#Encontrando  o perimentro de um retangulo, que é a soma de todos os lados.
 def find_perimeter(length, width):
   return (length + width) * 2
