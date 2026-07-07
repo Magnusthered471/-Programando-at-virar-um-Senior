@@ -3,10 +3,18 @@
 
 # Primeira lesson do site aprendir sobre Shebang sendo(#!/bin/sh),que fas o script ser interpretado pelo shell, e não por outro interpretador de comandos.
 
-echo "HELLO"
 # O echo imprime o qe eu escrevo dentro do "".
-
+echo "HELLO"
+# Como escrever meu nme junto com o welcome
 read name
-# O code read fusiona como um leitor do que eu escrevo no terminal, e o name fusiona como uma variavel que recebe o que e escrevo como em python.
 echo "Welcome" $name
-# O echo é usado para imprimir o que eu escrevo no terminal, exemplo: echo "Hello World" e o $ serve para revevelar a variavel que eu criei, no caso o name.
+# Escrevendo do 1 a 50.
+for D in {1..50}
+do
+    echo "Number: $D"
+done
+# Escrevendo do 1  50 ms em umeros impares.
+for D in {1..50..2}
+do
+    echo "Number: $D"
+done
