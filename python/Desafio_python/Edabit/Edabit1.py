@@ -15,9 +15,9 @@ def find_perimeter(length, width):
   return (length + width) * 2
 
 # Retorne a soma de dois números.
- def addition(a, b):
+def addition(a, b):
   return (a + b)
 
- # Retorna o próximo número dentre os inteiros passados.
- def addition(num):
-	return(num + 1)
+# Retorna o próximo número dentre os inteiros passados.
+def addition(num):
+  return(num + 1)
