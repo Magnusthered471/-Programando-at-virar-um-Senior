@@ -11,13 +11,23 @@ else
   echo X is equal to Y
 fi
 
-#Introdução às condicionais
+# introdução da condicionais
 read T
 
 if [[ $T == "Y" || $T == "y" ]]; then
   echo "YES"
 elif [[ $T == "N" || $T == "n" ]]; then
   echo "NO"
+fi
+
+# Mais sobre condicionais
+read a b c
+if ((a == b && b == c)); then
+  echo EQUILATERAL
+elif ((a == b || b == c || c == a)); then
+  echo ISOSCELES
+else
+  echo SCALENE
 fi
 
 
