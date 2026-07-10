@@ -21,3 +21,7 @@ def addition(a, b):
 # Retorna o próximo número dentre os inteiros passados.
 def addition(num):
   return(num + 1)
+
+# Converter horas em segundos
+def how_many_seconds(hours):
+  return( hours * 60 ) * 60

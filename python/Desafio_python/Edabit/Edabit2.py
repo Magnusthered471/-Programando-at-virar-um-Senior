@@ -22,3 +22,8 @@ def animals(chickens, cows, pigs):
 def tri_area(base, height):
   return(base * height) / 2
 
+# Retorne o resto da divisão de dois números. 
+def remainder(x, y):
+	return x % y
+
+
