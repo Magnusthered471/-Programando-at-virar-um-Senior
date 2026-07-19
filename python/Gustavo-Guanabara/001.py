@@ -1,3 +1,4 @@
+#Dia 1
 # Primeira lesson do gustavo guanabara, para aprender python co mais entendimento.
 # Começando com a primeira aula, vamos aprender a usar o print para mostrar mensagens na tela.
 # 001.py
