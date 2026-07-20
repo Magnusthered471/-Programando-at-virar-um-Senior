@@ -1,4 +1,3 @@
-#Dia 2
 # Segunda lesson do gustavo guanabara, para aprender python co mais entendimento.
 # Escrever m program qe ler o nome de uma pessoa e mostre uma mensagem de boas vindas.
 # 002.py
