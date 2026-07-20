@@ -1,3 +1,4 @@
+# Dia 3
 # Exercicio do video 6 parte 1 = antes das lesson do 003, mas comsiderando sendo o desafio 003
 n1 = int(float(input("Escreva um numero: ")))
 n2 = int(float(input("Escreva outro numero: ")))
