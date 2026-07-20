@@ -2,4 +2,4 @@
 p1 = int(float(input("Esceva sua primeira nota: ")))
 p2 = int(float(input("Escrea o segundo: ")))
 n1 = (p1 + p2) / 2
-print(f"A sua nota sera {n1}")
+print(f"A sua media da sua nota do seu semestre sera {n1}")
